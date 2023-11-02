@@ -5,7 +5,7 @@
       "nombre": "Eliseo",
       "apellido": "Cutrona",
       "email": "eliseo.cutrona@mail.com",
-      "password": "git ad",
+      "password": "12345678",
       "token": "hjsdfJHFDSAFMsaDsan12sdanjjadashj3FDBEWH",
       "role": "admin"
     },
@@ -13,7 +13,7 @@
       "nombre": "Facundo",
       "apellido": "Perez",
       "email": "juan@email.com",
-      "password": "123456",
+      "password": "12345678",
       "token": "nmdsgfjhuMDKSAFJASDK327SJDKANjsadnsah",
       "role": "user",
       "id": 4
